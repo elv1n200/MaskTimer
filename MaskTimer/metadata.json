@@ -1,7 +1,7 @@
 {
-  "name": "MaskTimer",
+  "name": "&bMaskTimer",
   "version": "1.0.2",
-  "creator": "User",
+  "creator": "Elvin",
   "description": "Mask + Phoenix Timer HUD using Vigilance config and movable HUD.",
   "requires": [
     "Vigilance"
