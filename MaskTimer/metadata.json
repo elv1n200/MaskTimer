@@ -1,0 +1,11 @@
+{
+  "name": "MaskTimer",
+  "version": "1.0.2",
+  "creator": "User",
+  "description": "Mask + Phoenix Timer HUD using Vigilance config and movable HUD.",
+  "requires": [
+    "Vigilance"
+  ],
+  "entry": "index.js",
+  "compile": true
+}

@@ -1,0 +1,7 @@
+
+[general]
+
+	[general.masktimer]
+		nur_bei_maxor-start_aktivieren = true
+		masktimer_aktiv = true
+
