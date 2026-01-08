@@ -1,0 +1,11 @@
+{
+  "name": "MaskTimer",
+  "version": "1.2.0",
+  "creator": "Elvin",
+  "description": "MaskTimer + Storm Pad Timers + M7 Potion Bag (structured).",
+  "requires": [
+    "Vigilance"
+  ],
+  "entry": "index.js",
+  "compile": true
+}

@@ -1,0 +1,58 @@
+
+[general]
+
+	[general."potion_bag_(master_mode)"]
+		"potion_bag_öffnen_in_m6" = false
+		"potion_bag_öffnen_in_m7" = true
+		"potion_bag_öffnen_in_m1" = false
+		"potion_bag_öffnen_in_m2" = false
+		"potion_bag_öffnen_in_m3" = false
+		"potion_bag_öffnen_in_m4" = false
+		"potion_bag_öffnen_in_m5" = false
+
+	[general.masktimer]
+		nur_bei_maxor-start_aktivieren = true
+		masktimer_aktiv = true
+
+	[general."potion_bag_(floors)"]
+		"potion_bag_öffnen_in_f1" = false
+		"potion_bag_öffnen_in_f2" = false
+		"potion_bag_öffnen_in_f3" = false
+		"potion_bag_öffnen_in_f4" = false
+		"potion_bag_öffnen_in_f5" = false
+		"potion_bag_öffnen_in_f6" = false
+		"potion_bag_öffnen_in_f7" = true
+
+	[general."potion_bag_(normal_floors)"]
+		"potion_bag_öffnen_in_f1" = false
+		"potion_bag_öffnen_in_f2" = false
+		"potion_bag_öffnen_in_f3" = false
+		"potion_bag_öffnen_in_f4" = false
+		"potion_bag_öffnen_in_f5" = false
+		"potion_bag_öffnen_in_f6" = false
+		"potion_bag_öffnen_in_f7" = false
+
+	[general."potion_bag_(m7)"]
+		"potion_bag_in_m7_öffnen" = false
+
+	[general."potion_bag_(master)"]
+		"potion_bag_öffnen_in_m6" = false
+		"potion_bag_öffnen_in_m1" = false
+		"potion_bag_öffnen_in_m2" = false
+		"potion_bag_öffnen_in_m3" = false
+		"potion_bag_öffnen_in_m4" = false
+		"potion_bag_öffnen_in_m5" = false
+
+	[general.qol]
+		"potion_bag_in_m7_öffnen" = true
+		"truhe_sofort_schließen" = false
+
+[storm_pads]
+
+	[storm_pads.general]
+		pad_timers_aktiv = true
+
+	[storm_pads.pads]
+		green_pad_timer = false
+		purple_pad_timer = true
+
